@@ -1,5 +1,5 @@
 [package]
-name = "avail-signer-generator"
+name = "avail-seed-with-kms"
 version = "0.1.0"
 
 edition = "2021"
